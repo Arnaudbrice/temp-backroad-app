@@ -22,7 +22,7 @@ export const services = [
     icon: "fas fa-wallet fa-fw",
     title: "saving money",
     text:
-      "    Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia. very nice"
+      "    Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia. very nice cool"
   },
   {
     id: 2,
